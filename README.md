@@ -8,19 +8,15 @@
 robertdshaw/robertdshaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
 
-<a href="https://medium.com/@robert_32129">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
-</a> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertdshaw&layout=compact"/>
 <table>
     <tbody>
         <tr>
             <td><a href="[https://medium.com/@robert_32129]">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-color/512/medium_flat_color-64.png" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/robdshaw/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
             </a></td>
         </tr>
     </tbody>
